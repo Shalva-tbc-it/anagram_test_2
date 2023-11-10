@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Anagram Test 2</string>
+    <string name="count">count</string>
+    <string name="output">Output</string>
+    <string name="save">Save</string>
+</resources>
